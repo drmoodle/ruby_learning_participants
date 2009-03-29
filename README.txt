@@ -60,3 +60,5 @@ Change log:
 
 Cheers,
 ashbb (Satoshi Asakawa)
+
+Hi Randy
